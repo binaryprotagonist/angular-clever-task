@@ -4,10 +4,6 @@ Steps to setup the project and get it up and running
 
 Run 'npm install'
 
-# Start the project
-
-Run ' ng serve'
-
 # TestTaskAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
